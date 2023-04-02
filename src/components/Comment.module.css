@@ -27,17 +27,17 @@
     justify-content: space-between;
 }
 
-.AuthorAndTime {
+.authorAndTime {
     display: flex;
     flex-direction: column;
 }
 
-.AuthorAndTime strong {
+.authorAndTime strong {
     font-size: 0.875rem;
     line-height: 1.6;
 }
 
-.AuthorAndTime time {
+.authorAndTime time {
     font-size: 0.75rem;
     line-height: 1.6;
     color: var(--gray-400);
